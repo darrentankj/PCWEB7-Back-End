@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Enabled",
+                "ssl": {
+                    "ca": "C:\\Users\\darre\\OneDrive - Nanyang Technological University\\PCWEB\\PCWEB7 Weather\\isrgrootx1.pem"
+                }
+            },
+            "previewLimit": 50,
+            "server": "gateway01.ap-southeast-1.prod.aws.tidbcloud.com",
+            "port": 4000,
+            "driver": "TiDB",
+            "name": "PCWEB7database",
+            "database": "test",
+            "username": "3XxyuCCmaVFyceZ.root"
+        }
+    ]
+}
